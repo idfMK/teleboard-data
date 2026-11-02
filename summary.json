@@ -1,213 +1,219 @@
 {
-  "generated_at": "2026-10-26",
+  "generated_at": "2026-11-02",
   "source": "https://telegram.exposed",
   "method": "https://telegram.exposed/methodology",
   "license": "CC BY 4.0",
   "top_per_language": 1000,
   "totals": {
-    "groups": 336965,
-    "languages": 81,
-    "members": 933533465,
+    "groups": 352381,
+    "languages": 83,
+    "members": 970964472,
     "min_groups": 1000
   },
   "languages": [
     {
       "code": "ru",
       "name": "Russian",
-      "live_groups": 132273,
+      "live_groups": 135694,
       "rows": 1000
     },
     {
       "code": "en",
       "name": "English",
-      "live_groups": 57173,
+      "live_groups": 60249,
       "rows": 1000
     },
     {
       "code": "zh",
       "name": "Chinese",
-      "live_groups": 35412,
+      "live_groups": 38828,
       "rows": 1000
     },
     {
       "code": "fa",
       "name": "Persian",
-      "live_groups": 24204,
+      "live_groups": 25214,
       "rows": 1000
     },
     {
       "code": "ar",
       "name": "Arabic",
-      "live_groups": 13707,
+      "live_groups": 14670,
       "rows": 1000
     },
     {
       "code": "uz",
       "name": "Uzbek",
-      "live_groups": 11339,
+      "live_groups": 12365,
       "rows": 1000
     },
     {
       "code": "uk",
       "name": "Ukrainian",
-      "live_groups": 8620,
+      "live_groups": 8950,
       "rows": 1000
     },
     {
       "code": "id",
       "name": "Indonesian",
-      "live_groups": 7091,
-      "rows": 1000
-    },
-    {
-      "code": "es",
-      "name": "Spanish",
-      "live_groups": 6788,
+      "live_groups": 7444,
       "rows": 1000
     },
     {
       "code": "az",
       "name": "Azerbaijani",
-      "live_groups": 6421,
+      "live_groups": 7138,
+      "rows": 1000
+    },
+    {
+      "code": "es",
+      "name": "Spanish",
+      "live_groups": 6804,
       "rows": 1000
     },
     {
       "code": "tr",
       "name": "Turkish",
-      "live_groups": 5130,
+      "live_groups": 5296,
       "rows": 1000
     },
     {
       "code": "pt",
       "name": "Portuguese",
-      "live_groups": 4409,
+      "live_groups": 4426,
       "rows": 1000
     },
     {
       "code": "vi",
       "name": "Vietnamese",
-      "live_groups": 3216,
+      "live_groups": 3383,
       "rows": 1000
     },
     {
       "code": "it",
       "name": "Italian",
-      "live_groups": 2239,
+      "live_groups": 2294,
       "rows": 1000
     },
     {
       "code": "de",
       "name": "German",
-      "live_groups": 1900,
+      "live_groups": 1901,
       "rows": 1000
     },
     {
       "code": "kk",
       "name": "kk",
-      "live_groups": 1166,
+      "live_groups": 1229,
+      "rows": 1000
+    },
+    {
+      "code": "fr",
+      "name": "French",
+      "live_groups": 1002,
       "rows": 1000
     }
   ],
   "categories": [
     {
       "name": "Friends & Chat",
-      "live_groups": 53790
+      "live_groups": 56330
     },
     {
       "name": "Cities & Local",
-      "live_groups": 31030
+      "live_groups": 32426
     },
     {
       "name": "Deals & Shopping",
-      "live_groups": 25858
+      "live_groups": 27346
     },
     {
       "name": "Crypto & Web3",
-      "live_groups": 23827
+      "live_groups": 24765
     },
     {
       "name": "Gaming",
-      "live_groups": 21374
+      "live_groups": 22555
     },
     {
       "name": "Education & Study",
-      "live_groups": 18253
+      "live_groups": 19114
     },
     {
       "name": "Jobs & Freelance",
-      "live_groups": 13120
+      "live_groups": 13595
     },
     {
       "name": "Marketing & Growth",
-      "live_groups": 10805
+      "live_groups": 11367
     },
     {
       "name": "News & Politics",
-      "live_groups": 7754
+      "live_groups": 8007
     },
     {
       "name": "Tech & Gadgets",
-      "live_groups": 7301
+      "live_groups": 7661
     },
     {
       "name": "Telegram Tools & Bots",
-      "live_groups": 6717
+      "live_groups": 7048
     },
     {
       "name": "Religion & Spirituality",
-      "live_groups": 5905
+      "live_groups": 6161
     },
     {
       "name": "Personal Finance",
-      "live_groups": 5432
+      "live_groups": 5700
     },
     {
       "name": "Cars & Motorcycles",
-      "live_groups": 5009
+      "live_groups": 5219
     },
     {
       "name": "Health & Wellness",
-      "live_groups": 4768
+      "live_groups": 4894
     },
     {
       "name": "Travel",
-      "live_groups": 4415
+      "live_groups": 4538
     },
     {
       "name": "Trading & Forex",
-      "live_groups": 4304
+      "live_groups": 4465
     },
     {
       "name": "Music",
-      "live_groups": 4278
+      "live_groups": 4407
     },
     {
       "name": "Programming",
-      "live_groups": 3393
+      "live_groups": 3475
     },
     {
       "name": "Books & Writing",
-      "live_groups": 3139
+      "live_groups": 3229
     },
     {
       "name": "Startups & Business",
-      "live_groups": 3057
+      "live_groups": 3167
     },
     {
       "name": "Sports",
-      "live_groups": 2693
+      "live_groups": 2784
     },
     {
       "name": "Football",
-      "live_groups": 2680
+      "live_groups": 2780
     },
     {
       "name": "Art & Photography",
-      "live_groups": 2565
+      "live_groups": 2628
     },
     {
       "name": "Movies & TV",
-      "live_groups": 2472
+      "live_groups": 2609
     }
   ]
 }
